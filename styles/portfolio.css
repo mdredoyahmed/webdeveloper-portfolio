@@ -192,3 +192,10 @@ resume-item-title {
    margin-top: 50px;
     text-align: center;
 }
+/*footer style*/
+footer{
+    display: flex;
+    background-color: #fff8f3;
+    padding: 130px 200px;
+    margin-top: 100px;
+}
